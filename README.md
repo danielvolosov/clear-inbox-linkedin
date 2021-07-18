@@ -44,4 +44,4 @@ I initially tried to automate the process by looping through all of the messages
 
 ## TODO
 
-Might make this a Chrome plugin. Hopefully LinkedIn implementals checkboxes and a 'Select All' in the message center in order to help manage the inbox, in which case none of this will be necessary! In the meantime, this is what I ended up writing/using.
+Might make this a Chrome plugin. Hopefully LinkedIn implementals checkboxes that can be accessed without clicking each message and a 'Select All' in the inbox to allow non-technical users to perform batch delete processes, in which case none of this will be necessary! In the meantime, this is what I ended up writing/using.
