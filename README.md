@@ -40,7 +40,7 @@ This is a simple script that will allow non-technical LinkedIn users to clear th
 
 ## Notes (This part is for anyone that's curious about the technical stuff)
 
-I initially tried to automate the process by looping through all of the messages while the condition of an author name existed. This let the script know that there were still more messages. It worked fine in implementation, however it appears that LinkedIn was not happy with all of the requests and ultimately served me a 'Request Denied' error page with a catch-all 999 error code. I then introduced several timeouts to the script, but was not seeing any difference.
+I initially tried to automate the process by looping through all of the messages while the condition of an author name existed. This let the script know that there were still more messages. It worked fine in implementation, however it appears that LinkedIn was not happy with all of the requests and ultimately served me a 'Request Denied' error page with a catch-all 999 error code. I then introduced several timeouts to the script, but was not seeing any difference. If you know of a good workaround - feel free to open a pull request or just let me know!
 
 ## TODO
 
